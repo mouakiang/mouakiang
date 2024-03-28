@@ -25,7 +25,7 @@
 
 </br>
 
-<div align="center">
+<div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
 
 - 🔭 I’m currently working on **a project with Localize.**
