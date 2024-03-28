@@ -29,7 +29,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
 
 <div align="center">
-🔭 I’m currently working on <ul>a project with Localize.</ul>
+🔭 I’m currently working on a project with Localize.
 
 🌱 I’m currently learning **Python**
 
