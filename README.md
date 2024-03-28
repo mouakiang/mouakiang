@@ -25,7 +25,8 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
 
 - 🔭 I’m currently working on **a project with Localize.**
 
@@ -44,3 +45,5 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kiangmoua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiangmoua/" height="30" width="40" /></a>
 <a href="https://discord.gg/midorisky01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="midorisky01" height="30" width="40" /></a>
 </p>
+
+</div>
