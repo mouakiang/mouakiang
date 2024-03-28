@@ -25,9 +25,10 @@
 
 </br>
 
-<div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
 
+<div align="center">
 - 🔭 I’m currently working on **a project with Localize.**
 
 - 🌱 I’m currently learning **Python**
@@ -39,6 +40,7 @@
 - 📫 How to reach me **mouakkia@gmail.com**
 
 - ⚡ Fun fact **My birthday falls on the same month and day as Mozart.**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -46,4 +48,3 @@
 <a href="https://discord.gg/midorisky01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="midorisky01" height="30" width="40" /></a>
 </p>
 
-</div>
