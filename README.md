@@ -25,4 +25,4 @@
 
 </br>
 
-<img src="./images/connectwme.png" height="35" width="300">
+<img align="center" src="./images/connectwme.png" height="35" width="300">
