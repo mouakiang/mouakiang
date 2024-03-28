@@ -25,3 +25,22 @@
 
 </br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
+
+- 🔭 I’m currently working on **a project with Localize.**
+
+- 🌱 I’m currently learning **Python**
+
+- 🤝 I’m looking for help with **advice on continual growth.**
+
+- 👨‍💻 All of my projects are available at [https://web-portfolio-k7cx.onrender.com](https://web-portfolio-k7cx.onrender.com)
+
+- 📫 How to reach me **mouakkia@gmail.com**
+
+- ⚡ Fun fact **My birthday falls on the same month and day as Mozart.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kiangmoua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kiangmoua/" height="30" width="40" /></a>
+<a href="https://discord.gg/midorisky01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="midorisky01" height="30" width="40" /></a>
+</p>
