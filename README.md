@@ -25,4 +25,3 @@
 
 </br>
 
-<img align="center" src="./images/connectwme.png" height="35" width="300">
