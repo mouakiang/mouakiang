@@ -1,4 +1,4 @@
-<img align="left" src="./images/Hello.png" height="450" width="300">
+<img align="left" src="./images/Hello.png" height="550" width="350">
 
 <p align="center"> 
 <img src="./images/Languages &.png" height="35" width="300">
