@@ -29,17 +29,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on **a project with Localize.**
+ 🔭 I’m currently working on **a project with Localize.**
 
-- 🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **advice on continual growth.**
+🤝 I’m looking for help with **advice on continual growth.**
 
-- 👨‍💻 All of my projects are available at [https://web-portfolio-k7cx.onrender.com](https://web-portfolio-k7cx.onrender.com)
+👨‍💻 All of my projects are available at [https://web-portfolio-k7cx.onrender.com](https://web-portfolio-k7cx.onrender.com)
 
-- 📫 How to reach me **mouakkia@gmail.com**
+📫 How to reach me **mouakkia@gmail.com**
 
-- ⚡ Fun fact **My birthday falls on the same month and day as Mozart.**
+⚡ Fun fact **My birthday falls on the same month and day as Mozart.**
 </div>
 
 <h3 align="center">Connect with me:</h3>
