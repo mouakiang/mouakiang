@@ -29,11 +29,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouakiang&label=Profile%20views&color=0e75b6&style=flat" alt="mouakiang" /> </p>
 
 <div align="center">
-🔭 I’m currently freelancing.
+🔭 Currently pursuing BA of Computer Science @ ODU. 
 
-🌱 I’m currently learning **Python**
-
-🤝 I’m looking for help with **advice on continual growth.**
+🤝 I’m looking for help with **tips on how I can become a better developer**
 
 👨‍💻 All of my projects are available at [https://web-portfolio-k7cx.onrender.com](https://web-portfolio-k7cx.onrender.com)
 
