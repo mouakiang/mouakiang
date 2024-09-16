@@ -35,8 +35,6 @@
 
 🤝 I’m looking for help with **tips on how I can become a better developer**
 
-👨‍💻 All of my projects are available at [https://web-portfolio-k7cx.onrender.com](https://web-portfolio-k7cx.onrender.com)
-
 📫 How to reach me **mouakkia@gmail.com**
 
 ⚡ Fun fact **My birthday falls on the same month and day as Mozart.**
