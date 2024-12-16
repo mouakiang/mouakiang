@@ -35,7 +35,7 @@
 
 🤝 I’m looking for help with **tips on how I can become a better developer**
 
-📫 How to reach me **mouakkia@gmail.com**
+📫 How to reach me **https://www.linkedin.com/in/kiangmoua/**
 
 ⚡ Fun fact **My birthday falls on the same month and day as Mozart.**
 </div>
